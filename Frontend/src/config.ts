@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://blogwonders.adityagup15.workers.dev";
